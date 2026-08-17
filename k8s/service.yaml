@@ -6,7 +6,7 @@ metadata:
     app: devops-kubernetes-api
 spec:
   selector:
-    app: devops-kubernetes-api
+    app: kubernetes-demo-api
   ports:
   - protocol: TCP
     port: 3000 # Service port
